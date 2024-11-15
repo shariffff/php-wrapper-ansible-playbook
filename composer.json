@@ -1,0 +1,17 @@
+{
+    "name": "sharif/php-ansible-playbook",
+    "autoload": {
+        "psr-4": {
+            "PHPPlay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sharif Mohammad Eunus",
+            "email": "sharif.eunus@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/process": "^7.1"
+    }
+}
