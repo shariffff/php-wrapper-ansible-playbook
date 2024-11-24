@@ -7,9 +7,7 @@ use PHPPlay\AnsiblePlaybook;
 class Ping extends AnsiblePlaybook
 {
 
-    /**
-     * @inheritDoc
-     */
+
     public function base()
     {
         if (defined('ABSPATH')) {
